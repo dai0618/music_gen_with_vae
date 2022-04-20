@@ -1,1 +1,2 @@
-# music_gen_with_vae
+python 3.6で実装しました。
+configs1のmelody_numからmbを変えることで様々な曲が生成できます。
